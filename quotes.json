@@ -1,0 +1,32 @@
+[
+    {
+        "url": "https://drive.google.com/uc?id=1PSwADDuE1GGdaONPsdodUxbnjaFsFukF",
+        "schedule": {
+            "date": "2024-11-01",
+            "time": { "from": "20:15", "to": "22:35" }
+        }
+    },
+    {
+        "url": "https://drive.google.com/uc?id=1EwCCVsj4h1FD167h9YXK7ayvHoAr2rbH",
+        "schedule": {
+            "date": "2024-11-01",
+            "time": { "from": "22:35", "to": "23:00" }
+        }
+    },
+    {
+        "url": "https://drive.google.com/uc?id=1QH41FC3kBB4mfiXgYN8Jg59O_VKTsrmW",
+        "schedule": {
+            "date": "2024-11-01"
+        }
+    },
+    {
+        "url": "https://drive.google.com/uc?id=1vhPFPis5AQLR_wGbslDdFjIo5dRH_9y8"
+    },
+    {
+        "url": "https://drive.google.com/uc?id=1pY3BH6GQcN4a-SAS0714lQ_eLqQwifGo"
+    },
+    {
+        "url": "https://drive.google.com/uc?id=1UDwyHX465fcZCymNZQ--HPanZxSLiY_b"
+    }
+    
+]
