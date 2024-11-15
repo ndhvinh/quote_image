@@ -27,5 +27,17 @@
   },
   {
     "url": "https://raw.githubusercontent.com/ndhvinh/quote_image/main/quote_images/PositivityQuotes_Lynch-c747407918ec44878add08221696353e.jpg"
-  }
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ndhvinh/quote_image/main/quote_images/200w.gif",
+    "schedule": {
+      "date": "2024-11-15",
+    }
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ndhvinh/quote_image/main/quote_images/200w.gif",
+    "schedule": {
+      "date": "2024-11-16",
+    }
+  },
 ]
