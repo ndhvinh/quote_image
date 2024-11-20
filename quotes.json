@@ -1,40 +1,37 @@
-{
-  "last_modified": "Thu, 20 Mar 2024 12:00:00 GMT",
-  "quotes":[
-    {
-      "url": "https://raw.githubusercontent.com/ndhvinh/quote_image/main/quote_images/1438429-e1620062394941-900x599.jpg",
-      "schedule": {
-        "date": "2024-11-01",
-        "time": {
-          "from": "20:15",
-          "to": "22:35"
-        }
+[
+  {
+    "url": "https://raw.githubusercontent.com/ndhvinh/quote_image/main/quote_images/1438429-e1620062394941-900x599.jpg",
+    "schedule": {
+      "date": "2024-11-01",
+      "time": {
+        "from": "20:15",
+        "to": "22:35"
       }
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ndhvinh/quote_image/main/quote_images/4e3d2600a032fdb64662d2bb8511d8f7.jpg",
-      "schedule": {
-        "date": "2024-11-01",
-        "time": {
-          "from": "22:35",
-          "to": "23:00"
-        }
+    }
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ndhvinh/quote_image/main/quote_images/4e3d2600a032fdb64662d2bb8511d8f7.jpg",
+    "schedule": {
+      "date": "2024-11-01",
+      "time": {
+        "from": "22:35",
+        "to": "23:00"
       }
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ndhvinh/quote_image/main/quote_images/6503273f19eba689d8d4bafd_good-day-quotes.jpg",
-      "schedule": {
-        "date": "2024-11-01"
-      }
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ndhvinh/quote_image/main/quote_images/PositivityQuotes_Lynch-c747407918ec44878add08221696353e.jpg"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ndhvinh/quote_image/main/quote_images/200w.gif",
-      "schedule": {
-        "date": "2024-11-20",
-      }
-    },
-  ]
-}
+    }
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ndhvinh/quote_image/main/quote_images/6503273f19eba689d8d4bafd_good-day-quotes.jpg",
+    "schedule": {
+      "date": "2024-11-01"
+    }
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ndhvinh/quote_image/main/quote_images/PositivityQuotes_Lynch-c747407918ec44878add08221696353e.jpg"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ndhvinh/quote_image/main/quote_images/200w.gif",
+    "schedule": {
+      "date": "2024-11-20",
+    }
+  },
+]
